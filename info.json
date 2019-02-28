@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "name": "Rosenbaum-Bailey",
+    "address": "57 Chive Junction",
+    "revenue": {
+      "jan": 40300,
+      "feb": 42000,
+      "mar": 40000,
+      "apr": 50000,
+      "may": 46000,
+      "jun": 20000,
+      "jul": 56000,
+      "aug": 41000,
+      "sep": 46000,
+      "oct": 43214,
+      "nov": 48000,
+      "dec": 42000
+    }
+  },
+  {
+    "id": 2,
+    "name": "Beahan, Breitenberg and Sawayn",
+    "address": "3 Cardinal Plaza",
+    "revenue": {
+      "jan": 40300,
+      "feb": 42000,
+      "mar": 40000,
+      "apr": 50000,
+      "may": 12355,
+      "jun": 20000,
+      "jul": 57013,
+      "aug": 41000,
+      "sep": 12356,
+      "oct": 44000,
+      "nov": 48000,
+      "dec": 34583
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sipes-Hackett",
+    "revenue": {
+      "jan": 40300,
+      "feb": 42000,
+      "mar": 40000,
+      "apr": 50000,
+      "may": 46000,
+      "jun": 20000,
+      "jul": 56000,
+      "aug": 41000,
+      "sep": 46000,
+      "oct": 44000,
+      "nov": 48000,
+      "dec": 42000
+    },
+    "address": "85 Springs Plaza"
+  },
+  {
+    "id": 4,
+    "name": "Balistreri-Fritsch",
+    "address": "5 Graedel Plaza",
+    "revenue": {
+      "jan": 40300,
+      "feb": 42000,
+      "mar": 40000,
+      "apr": 50000,
+      "may": 46000,
+      "jun": 20000,
+      "jul": 56000,
+      "aug": 41000,
+      "sep": 46000,
+      "oct": 44000,
+      "nov": 48000,
+      "dec": 42000
+    }
+  },
+  {
+    "id": 5,
+    "name": "Nicolas-Goldner",
+    "address": "3 Dennis Trail",
+    "revenue": {
+      "jan": 40300,
+      "feb": 42000,
+      "mar": 40000,
+      "apr": 50000,
+      "may": 46000,
+      "jun": 20000,
+      "jul": 56000,
+      "aug": 41000,
+      "sep": 46000,
+      "oct": 44000,
+      "nov": 48000,
+      "dec": 42000
+    }
+  }
+]
